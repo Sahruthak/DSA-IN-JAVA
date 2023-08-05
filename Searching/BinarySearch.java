@@ -5,6 +5,9 @@ class BinarySearch {
         while(left <= right){
             mid = (left+right)/2;
             if(nums[mid] == target)
+
+
+                
                 return mid;
             if(target < nums[mid]) // if target is on left
                 right = mid-1;
