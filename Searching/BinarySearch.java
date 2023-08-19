@@ -13,5 +13,13 @@ class BinarySearch {
         } 
         // loop finished, element not found
         return -1;
+
+
+
+
+
+
+
+        
     }
 }
