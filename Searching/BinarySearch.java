@@ -8,7 +8,7 @@ class BinarySearch {
                 return mid;
             if(target < nums[mid]) // if target is on left
                 right = mid-1;
-            else // if target is on right
+            else 
                 left = mid+1;
         } 
         // loop finished, element not found
