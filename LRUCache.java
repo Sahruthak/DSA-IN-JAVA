@@ -1,6 +1,4 @@
-class LRUCache {  
-
-    
+class LRUCache {      
     LinkedHashMap<Integer, Integer> cache;
     int capacity;
     
