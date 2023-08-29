@@ -1,7 +1,6 @@
 class LRUCache {      
     LinkedHashMap<Integer, Integer> cache;
     int capacity;
-    
     public LRUCache(int capacity) {
         this.capacity = capacity;
         cache = new LinkedHashMap<Integer, Integer>();
