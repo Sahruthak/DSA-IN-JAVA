@@ -2,6 +2,8 @@ class TrieNode{
     public boolean isWord;
     public TrieNode[] children = new TrieNode[26];
 }
+
+
 class Trie {
     private TrieNode root;
     public Trie() {
