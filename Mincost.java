@@ -1,6 +1,8 @@
 #Min Cost to Connect All Points
 
 
+    
+
 public class DisjointSet{
     int[] parent, rank;
     public DisjointSet(int n){
