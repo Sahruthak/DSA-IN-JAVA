@@ -8,6 +8,7 @@ class Node{
     }
 }
 
+
 public class ArrayStack
 {
     static int size=100;
