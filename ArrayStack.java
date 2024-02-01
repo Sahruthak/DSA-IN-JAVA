@@ -7,7 +7,6 @@ class Node{
         next=this.next;
     }
 }
-
 public class ArrayStack
 {
     static int size=100;
