@@ -5,6 +5,7 @@ class LRUCache {
         this.capacity = capacity;
         cache = new LinkedHashMap<Integer, Integer>();
     }
+    
    public void put(int key, int value) {
         if(cache.containsKey(key)){
             cache.remove(key);
