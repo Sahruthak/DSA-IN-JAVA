@@ -6,6 +6,7 @@ class Node{
         this.next=null;;
     }
 }
+
 public class Main
 {
     static Node head=null;
