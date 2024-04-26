@@ -1,4 +1,5 @@
 //implementation of stack using array
+
 class Node { // Node definition
     int data;
     Node next;
