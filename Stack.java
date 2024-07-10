@@ -7,7 +7,6 @@ class Node { // Node definition
         this.data = data;
     }
 }
-
 public class Stack { // driver class
     static final int SIZE = 10; // size of stack
     static int[] stack = new int[SIZE]; // declare a stack
