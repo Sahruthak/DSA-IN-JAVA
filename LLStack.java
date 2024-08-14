@@ -7,6 +7,7 @@ class Node{
     }
 }
 
+
 public class Main
 {
     static Node head=null;
